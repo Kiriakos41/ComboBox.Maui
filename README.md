@@ -6,3 +6,6 @@ a custom control for .net maui ComboBox
 
 Getting Started
 ***
+**NOTE**
+add namespace
+
