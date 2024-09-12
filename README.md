@@ -1,1 +1,2 @@
-Simple .NET MAUI combo box
+.NET MAUI Plugin: Custom ComboBox
+< br / > 
