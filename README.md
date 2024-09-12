@@ -5,6 +5,8 @@ Maui.ComboBox ⬇️
 a custom control for .net maui ComboBox
 
 Getting Started
+[![NuGet](https://img.shields.io/nuget/v/ComboBox.Maui.svg)](https://www.nuget.org/packages/ComboBox.Maui/)
+
 **Add Namespace**
 ```xml
 xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
