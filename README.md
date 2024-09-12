@@ -10,3 +10,8 @@ add namespace
 ```xml
 xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 ```
+**NOTE**
+create control
+```xml
+<controls:ComboBox ItemsSource="{Binding Items}" ShownText="Name" />
+```
