@@ -13,6 +13,8 @@ xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 ```xml
 <controls:ComboBox ItemsSource="{Binding Items}" ShownText="Name" />
 ```
+**How it works**
+
 ```
 • ItemsSource: Binds a collection of items (e.g., a list) from your ViewModel to the ComboBox.
 
