@@ -2,9 +2,6 @@
 
 Maui.ColorPicker ⬇️
 
-!\[nugget]([path or URL to image](https://www.nuget.org/packages/ComboBox.Maui/))
-
-
 a custom control for .net maui ComboBox
 
 Getting Started
