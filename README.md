@@ -5,13 +5,11 @@ Maui.ColorPicker ⬇️
 a custom control for .net maui ComboBox
 
 Getting Started
-**NOTE**
-add namespace
+**Add Namespace**
 ```xml
 xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 ```
-**NOTE**
-create control
+**create control**
 ```xml
 <controls:ComboBox ItemsSource="{Binding Items}" ShownText="Name" />
 ```
