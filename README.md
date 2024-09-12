@@ -21,6 +21,8 @@ xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 • ShownText: Specifies which property of your model (e.g., Item) to display in the ComboBox. For example, if your model is:
 
 • Setting ShownText="Name" will display the Name property of each Item in the ComboBox.
+
+• Placeholder: Displays a small, hint text in the ComboBox when no item is selected.
 ```
 **Sample:**
 
