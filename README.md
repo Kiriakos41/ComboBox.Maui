@@ -9,7 +9,7 @@ Getting Started
 ```xml
 xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 ```
-**create control**
+**Create Control**
 ```xml
 <controls:ComboBox ItemsSource="{Binding Items}" ShownText="Name" />
 ```
