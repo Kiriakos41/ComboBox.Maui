@@ -22,3 +22,7 @@ xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 
 • Setting ShownText="Name" will display the Name property of each Item in the ComboBox.
 ```
+**Sample:**
+
+https://github.com/user-attachments/assets/9b4a8c17-4a02-420a-a66b-9f77f0b3e44c
+
