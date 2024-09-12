@@ -14,7 +14,10 @@ xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 <controls:ComboBox ItemsSource="{Binding Items}" ShownText="Name" />
 ```
 ```
-ItemsSource: Binds a collection of items (e.g., a list) from your ViewModel to the ComboBox. This is where the ComboBox gets its data.
-ShownText: Specifies which property of your model (e.g., Item) to display in the ComboBox. For example, if your model is:
-Setting ShownText="Name" will display the Name property of each Item in the ComboBox.
+• ItemsSource: Binds a collection of items (e.g., a list) from your ViewModel to the ComboBox.
+This is where the ComboBox gets its data.
+
+• ShownText: Specifies which property of your model (e.g., Item) to display in the ComboBox. For example, if your model is:
+
+• Setting ShownText="Name" will display the Name property of each Item in the ComboBox.
 ```
