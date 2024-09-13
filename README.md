@@ -4,6 +4,14 @@ Maui.ComboBox ⬇️
 
 a custom control for .net maui ComboBox
 
+ First Header  | Second Header |
+| ------------- | ------------- |
+| iOS  | ❌  |
+| Android  | ✅  |
+| Mac Catalyst	  | ❌ |
+| Windows  | ❌  |
+| Tizen	 | ❌  |
+
 Getting Started
 
 [![NuGet](https://img.shields.io/nuget/v/ComboBox.Maui.svg)](https://www.nuget.org/packages/ComboBox.Maui/) [![NuGet Downloads](https://img.shields.io/nuget/dt/ComboBox.Maui.svg)](https://www.nuget.org/packages/ComboBox.Maui/)
