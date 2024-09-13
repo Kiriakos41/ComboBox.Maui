@@ -3,8 +3,7 @@
 **Maui.ComboBox** ⬇️
 
 A custom ComboBox control specifically designed for .NET MAUI, optimized for Android applications. <br>
-This control brings the familiar ComboBox functionality to your MAUI projects, <br>
-offering an intuitive and customizable dropdown experience.
+This control brings the familiar ComboBox functionality to your MAUI projects.
 
  Platform  | Supported |
 | ------------- | ------------- |
