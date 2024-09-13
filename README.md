@@ -4,7 +4,7 @@ Maui.ComboBox ⬇️
 
 a custom control for .net maui ComboBox
 
- First Header  | Second Header |
+ Platform  | Supported |
 | ------------- | ------------- |
 | iOS  |❌|
 | Android  |✅|
