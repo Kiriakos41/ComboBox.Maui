@@ -6,11 +6,11 @@ a custom control for .net maui ComboBox
 
  First Header  | Second Header |
 | ------------- | ------------- |
-| iOS  | ❌  |
-| Android  | ✅  |
-| Mac Catalyst	  | ❌ |
-| Windows  | ❌  |
-| Tizen	 | ❌  |
+| iOS  |❌|
+| Android  |✅|
+| Mac Catalyst	  |❌|
+| Windows  |❌|
+| Tizen	 |❌|
 
 Getting Started
 
