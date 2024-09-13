@@ -1,11 +1,11 @@
 ![515901-200](https://github.com/user-attachments/assets/8d35eb74-f195-4117-ad83-06e2a83b92c4)
 
-Maui.ComboBox ⬇️
-```
-A custom ComboBox control specifically designed for .NET MAUI, optimized for Android applications.
-This control brings the familiar ComboBox functionality to your MAUI projects,
+**Maui.ComboBox** ⬇️
+
+A custom ComboBox control specifically designed for .NET MAUI, optimized for Android applications. <br>
+This control brings the familiar ComboBox functionality to your MAUI projects, <br>
 offering an intuitive and customizable dropdown experience.
-```
+
  Platform  | Supported |
 | ------------- | ------------- |
 | iOS  |❌|
