@@ -38,7 +38,7 @@ xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 
 • Placeholder: Displays a small, hint text in the ComboBox when no item is selected.
 
-• Icon: Icon Property: When you provide an image name, it displays the icon in front of the entry field. If the image name is empty or not provided, the icon will not be shown.
+• Icon: When you provide an image name, it displays the icon in front of the entry field. If the image name is empty or not provided, the icon will not be shown.
 ```
 **Sample**
 
