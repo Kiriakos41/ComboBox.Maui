@@ -25,7 +25,7 @@ xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 ```
 **Create Control**
 ```xml
-<controls:ComboBox ItemsSource="{Binding Items}" ShownText="Name" />
+<controls:ComboBox ItemsSource="{Binding Items}" ShownText="Name" Icon="Search.png" />
 ```
 **How it works**
 
