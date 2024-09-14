@@ -44,6 +44,6 @@ xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 
 https://github.com/user-attachments/assets/9b4a8c17-4a02-420a-a66b-9f77f0b3e44c
 
-**Sample with icon**
+**Sample with icon (Search.png)**
 
 ![image](https://github.com/user-attachments/assets/da149f22-ed59-48b1-9eaf-08e085b8fc7b)
