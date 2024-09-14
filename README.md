@@ -40,7 +40,10 @@ xmlns:controls="clr-namespace:ComboBox.Maui;assembly=ComboBox.Maui"
 
 • Icon: Icon Property: When you provide an image name, it displays the icon in front of the entry field. If the image name is empty or not provided, the icon will not be shown.
 ```
-**Sample:**
+**Sample**
 
 https://github.com/user-attachments/assets/9b4a8c17-4a02-420a-a66b-9f77f0b3e44c
 
+**Sample with icon**
+
+![image](https://github.com/user-attachments/assets/da149f22-ed59-48b1-9eaf-08e085b8fc7b)
